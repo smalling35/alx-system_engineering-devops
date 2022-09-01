@@ -1,2 +1,5 @@
 #!/bin/bash
 rm *~
+[master 0c8c903] 101-clean_emacs
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/101-clean_emacs
